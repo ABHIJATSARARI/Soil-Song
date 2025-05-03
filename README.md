@@ -5,6 +5,11 @@ Addresses: **SDG 15 (Life on Land), SDG 8 (Decent Work and Economic Growth), and
 
 ---
 
+<p align="center">
+  <img src="https://github.com/ABHIJATSARARI/Soil-Song/blob/main/soil-song-app/assets/logo1.png" alt="OLifie Logo" width="300px">
+</p>
+
+---
 ## 📱 App Overview
 
 **SoilSong AI** transforms raw soil data into **audio-based narratives** that educate and empower farmers.  
