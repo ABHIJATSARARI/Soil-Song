@@ -1,0 +1,537 @@
+{"level":"info","message":"Created directory: /Users/abhijatsarari/Downloads/new_hack/soil-song-backend/public/audio","service":"soil-song-api","timestamp":"2025-05-02 23:28:37"}
+{"level":"info","message":"Created directory: /Users/abhijatsarari/Downloads/new_hack/soil-song-backend/public/uploads","service":"soil-song-api","timestamp":"2025-05-02 23:28:37"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:28:37"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-02 23:28:57"}
+{"level":"error","message":"Error generating soil story: Request failed with status code 401","service":"soil-song-api","timestamp":"2025-05-02 23:28:58"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Request failed with status code 401","service":"soil-song-api","timestamp":"2025-05-02 23:28:58"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-02 23:29:51"}
+{"level":"error","message":"Error generating soil story: Request failed with status code 401","service":"soil-song-api","timestamp":"2025-05-02 23:29:51"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Request failed with status code 401","service":"soil-song-api","timestamp":"2025-05-02 23:29:51"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:30:02"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-02 23:30:06"}
+{"level":"error","message":"Error generating soil story: Request failed with status code 401","service":"soil-song-api","timestamp":"2025-05-02 23:30:07"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Request failed with status code 401","service":"soil-song-api","timestamp":"2025-05-02 23:30:07"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:32:05"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:32:57"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:33:37"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:33:41"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:35:51"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:36:37"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:37:49"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:41:14"}
+{"level":"error","message":"Error: The CORS policy for this site does not allow access from the specified origin.","service":"soil-song-api","timestamp":"2025-05-02 23:41:25"}
+{"level":"error","message":"Error: The CORS policy for this site does not allow access from the specified origin.\n    at origin (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/src/index.js:43:23)\n    at /Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:219:13\n    at optionsCallback (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:199:9)\n    at corsMiddleware (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:204:7)\n    at Layer.handleRequest (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:342:13)\n    at /Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:297:9\n    at processParams (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:582:12)\n    at next (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:291:5)\n    at internalNext (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/helmet/index.cjs:531:6)","service":"soil-song-api","timestamp":"2025-05-02 23:41:25"}
+{"level":"error","message":"Error: The CORS policy for this site does not allow access from the specified origin.","service":"soil-song-api","timestamp":"2025-05-02 23:41:27"}
+{"level":"error","message":"Error: The CORS policy for this site does not allow access from the specified origin.\n    at origin (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/src/index.js:43:23)\n    at /Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:219:13\n    at optionsCallback (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:199:9)\n    at corsMiddleware (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:204:7)\n    at Layer.handleRequest (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:342:13)\n    at /Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:297:9\n    at processParams (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:582:12)\n    at next (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:291:5)\n    at internalNext (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/helmet/index.cjs:531:6)","service":"soil-song-api","timestamp":"2025-05-02 23:41:27"}
+{"level":"error","message":"Error: The CORS policy for this site does not allow access from the specified origin.","service":"soil-song-api","timestamp":"2025-05-02 23:41:28"}
+{"level":"error","message":"Error: The CORS policy for this site does not allow access from the specified origin.\n    at origin (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/src/index.js:43:23)\n    at /Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:219:13\n    at optionsCallback (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:199:9)\n    at corsMiddleware (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:204:7)\n    at Layer.handleRequest (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:342:13)\n    at /Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:297:9\n    at processParams (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:582:12)\n    at next (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:291:5)\n    at internalNext (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/helmet/index.cjs:531:6)","service":"soil-song-api","timestamp":"2025-05-02 23:41:28"}
+{"level":"error","message":"Error: The CORS policy for this site does not allow access from the specified origin.","service":"soil-song-api","timestamp":"2025-05-02 23:41:28"}
+{"level":"error","message":"Error: The CORS policy for this site does not allow access from the specified origin.\n    at origin (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/src/index.js:43:23)\n    at /Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:219:13\n    at optionsCallback (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:199:9)\n    at corsMiddleware (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/cors/lib/index.js:204:7)\n    at Layer.handleRequest (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:342:13)\n    at /Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:297:9\n    at processParams (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:582:12)\n    at next (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/router/index.js:291:5)\n    at internalNext (/Users/abhijatsarari/Downloads/new_hack/soil-song-backend/node_modules/helmet/index.cjs:531:6)","service":"soil-song-api","timestamp":"2025-05-02 23:41:28"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:42:33"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:43:46"}
+{"level":"info","message":"Generating mock soil story for pH: 4, moisture: 55","service":"soil-song-api","timestamp":"2025-05-02 23:43:49"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-02 23:43:49"}
+{"level":"info","message":"Split text into 8 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-02 23:43:49"}
+{"level":"error","message":"Error generating audio: text length (219) should be less than 200 characters. Try \"getAllAudioUrls(text, [option])\" for long text.","service":"soil-song-api","timestamp":"2025-05-02 23:43:53"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate audio: text length (219) should be less than 200 characters. Try \"getAllAudioUrls(text, [option])\" for long text.","service":"soil-song-api","timestamp":"2025-05-02 23:43:53"}
+{"level":"info","message":"Generating mock soil story for pH: 4, moisture: 55","service":"soil-song-api","timestamp":"2025-05-02 23:43:55"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-02 23:43:55"}
+{"level":"info","message":"Split text into 8 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-02 23:43:55"}
+{"level":"error","message":"Error generating audio: text length (219) should be less than 200 characters. Try \"getAllAudioUrls(text, [option])\" for long text.","service":"soil-song-api","timestamp":"2025-05-02 23:43:58"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate audio: text length (219) should be less than 200 characters. Try \"getAllAudioUrls(text, [option])\" for long text.","service":"soil-song-api","timestamp":"2025-05-02 23:43:58"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:47:04"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:53:33"}
+{"level":"info","message":"Generating mock soil story for pH: 4, moisture: 55","service":"soil-song-api","timestamp":"2025-05-02 23:53:37"}
+{"level":"info","message":"Generating mock soil story for pH: 6, moisture: 66","service":"soil-song-api","timestamp":"2025-05-02 23:53:45"}
+{"level":"info","message":"Generating mock soil story for pH: 6, moisture: 66","service":"soil-song-api","timestamp":"2025-05-03 00:01:18"}
+{"level":"info","message":"Generating mock soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 00:59:11"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 01:00:18"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 01:01:23"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 01:27:36"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 01:27:43"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 01:27:43"}
+{"level":"info","message":"Split text into 8 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 01:27:43"}
+{"level":"error","message":"Error generating audio: text length (219) should be less than 200 characters. Try \"getAllAudioUrls(text, [option])\" for long text.","service":"soil-song-api","timestamp":"2025-05-03 01:27:46"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate audio: text length (219) should be less than 200 characters. Try \"getAllAudioUrls(text, [option])\" for long text.","service":"soil-song-api","timestamp":"2025-05-03 01:27:46"}
+{"level":"info","message":"Generating mock soil story for pH: 6, moisture: 70","service":"soil-song-api","timestamp":"2025-05-03 01:28:37"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 01:28:37"}
+{"level":"info","message":"Split text into 7 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 01:28:37"}
+{"level":"error","message":"Error generating audio: text length (219) should be less than 200 characters. Try \"getAllAudioUrls(text, [option])\" for long text.","service":"soil-song-api","timestamp":"2025-05-03 01:28:40"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate audio: text length (219) should be less than 200 characters. Try \"getAllAudioUrls(text, [option])\" for long text.","service":"soil-song-api","timestamp":"2025-05-03 01:28:40"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 01:29:38"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 01:30:32"}
+{"level":"info","message":"Generating mock soil story for pH: 6, moisture: 70","service":"soil-song-api","timestamp":"2025-05-03 01:30:40"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 01:30:40"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 01:30:40"}
+{"level":"error","message":"Error during ffmpeg processing: Cannot find ffprobe","service":"soil-song-api","timestamp":"2025-05-03 01:30:43"}
+{"level":"error","message":"Error generating audio: Cannot find ffprobe","service":"soil-song-api","timestamp":"2025-05-03 01:30:43"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate audio: Cannot find ffprobe","service":"soil-song-api","timestamp":"2025-05-03 01:30:43"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 01:33:06"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 01:35:10"}
+{"level":"info","message":"Generating mock soil story for pH: 6, moisture: 70","service":"soil-song-api","timestamp":"2025-05-03 01:35:18"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 01:35:18"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 01:35:18"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_6f247468-6c3a-4225-b165-f22c3866ebb3.mp3","service":"soil-song-api","timestamp":"2025-05-03 01:35:21"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 01:35:41"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 01:35:41"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 01:35:41"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_50644401-9a26-4479-8343-2b5645dcdd1d.mp3","service":"soil-song-api","timestamp":"2025-05-03 01:35:44"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 01:39:05"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 50","service":"soil-song-api","timestamp":"2025-05-03 01:46:09"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 01:46:09"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 01:46:09"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_a93a0478-8bbd-4650-a51f-9ceaf42dfdf1.mp3","service":"soil-song-api","timestamp":"2025-05-03 01:46:12"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 01:46:53"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 01:47:04"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 01:57:10"}
+{"level":"info","message":"Generating mock soil story for pH: 4, moisture: 44","service":"soil-song-api","timestamp":"2025-05-03 01:57:17"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 01:57:17"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 01:57:17"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_29186284-bded-4173-8eed-3744d507e6bb.mp3","service":"soil-song-api","timestamp":"2025-05-03 01:57:20"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 02:06:50"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 02:06:50"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 02:06:50"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 02:06:50"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 44","service":"soil-song-api","timestamp":"2025-05-03 02:07:51"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 02:07:51"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 02:07:51"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_17e9e04b-0fca-4d3d-8d19-e619d7049c24.mp3","service":"soil-song-api","timestamp":"2025-05-03 02:07:54"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:13:10"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 02:13:10"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 02:13:10"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_1984dcf0-70cc-43d6-8d7e-a84b9b4e3ece.mp3","service":"soil-song-api","timestamp":"2025-05-03 02:13:12"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 02:18:56"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 02:18:56"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 02:18:56"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 02:18:56"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:19:20"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 02:19:20"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 02:19:20"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_483632e8-721a-4925-bf92-a8c0661cd992.mp3","service":"soil-song-api","timestamp":"2025-05-03 02:19:23"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 02:26:53"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 02:26:53"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 02:26:53"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 02:26:53"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:27:39"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 02:27:39"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 02:27:39"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_4ef9acc0-39fb-4c90-9140-895b493497f7.mp3","service":"soil-song-api","timestamp":"2025-05-03 02:27:41"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:28:58"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 02:28:58"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 02:28:58"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_9fb9db19-6ac6-48bf-8086-6279a020146d.mp3","service":"soil-song-api","timestamp":"2025-05-03 02:29:01"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:30:52"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 02:30:52"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 02:30:52"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_ff2c538b-9a02-4e91-88a1-40a252b7dea7.mp3","service":"soil-song-api","timestamp":"2025-05-03 02:30:55"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:33:03"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 02:33:03"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 02:33:03"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_2e181444-c4a0-46af-be0b-59c72ef924eb.mp3","service":"soil-song-api","timestamp":"2025-05-03 02:33:05"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 02:34:01"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 02:34:01"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 02:34:01"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 02:34:01"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 02:34:10"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 02:34:10"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 02:34:10"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 02:34:10"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:34:12"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 02:34:12"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 02:34:12"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_fdb84bb4-e091-4e0f-bd90-162f6b29fb0c.mp3","service":"soil-song-api","timestamp":"2025-05-03 02:34:15"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:34:29"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 02:34:29"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 02:34:29"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_d94f22a8-38a8-4edc-b0cd-9d86ccadfe3c.mp3","service":"soil-song-api","timestamp":"2025-05-03 02:34:31"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 02:40:20"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 02:40:20"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 02:40:20"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 02:40:20"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:40:53"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 02:40:53"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 02:40:53"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_42ed3380-8d74-4625-8235-7374085a7890.mp3","service":"soil-song-api","timestamp":"2025-05-03 02:40:56"}
+{"level":"info","message":"Generating mock soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:41:27"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 02:41:27"}
+{"level":"info","message":"Split text into 6 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 02:41:27"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_79b1b83b-8412-4433-995b-ef53a8779afa.mp3","service":"soil-song-api","timestamp":"2025-05-03 02:41:30"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 02:42:20"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 02:42:20"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 02:42:20"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 02:42:20"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 02:43:16"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 02:43:16"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 02:43:16"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 02:43:16"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:43:19"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:43:19"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:43:19"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:44:11"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:44:11"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:44:11"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 02:45:00"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:45:01"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:45:01"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 02:45:50"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:45:50"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:45:50"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 02:45:55"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:45:55"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:45:55"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 02:47:53"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:47:54"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:47:54"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 02:58:29"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:58:30"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 02:58:30"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 03:12:02"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:12:03"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:12:03"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 03:12:06"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:12:06"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:12:06"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 03:18:16"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 03:18:16"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 03:18:16"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 03:18:16"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 03:18:25"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:18:26"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:18:26"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 03:22:42"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 03:22:42"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 03:22:42"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 03:22:42"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 03:23:05"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:23:05"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:23:05"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 03:23:17"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:23:17"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:23:17"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 03:24:07"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:24:08"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:24:08"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 03:29:21"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:29:21"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:29:21"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 03:30:44"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:30:44"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:30:44"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 03:39:03"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:39:03"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 03:39:03"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 03:48:19"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 03:48:19"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 03:48:19"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 03:48:19"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 03:52:48"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 03:52:48"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 03:52:48"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 03:52:48"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 03:55:00"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 03:55:00"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 03:55:00"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 03:55:00"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 03:58:19"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 03:58:19"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 03:58:19"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 03:58:19"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 03:58:24"}
+{"level":"info","message":"Refreshing IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 03:58:24"}
+{"level":"info","message":"IBM Cloud IAM token refreshed. Expires in 60 minutes","service":"soil-song-api","timestamp":"2025-05-03 03:58:26"}
+{"level":"error","message":"Error parsing the generated soil story JSON: Could not find valid JSON in the generated text","service":"soil-song-api","timestamp":"2025-05-03 03:58:28"}
+{"level":"error","message":"Raw generated text: \n\n","service":"soil-song-api","timestamp":"2025-05-03 03:58:28"}
+{"level":"error","message":"Error generating soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 03:58:28"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 03:58:28"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 03:58:44"}
+{"level":"error","message":"Error parsing the generated soil story JSON: Could not find valid JSON in the generated text","service":"soil-song-api","timestamp":"2025-05-03 03:58:45"}
+{"level":"error","message":"Raw generated text: \n\n","service":"soil-song-api","timestamp":"2025-05-03 03:58:45"}
+{"level":"error","message":"Error generating soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 03:58:45"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 03:58:45"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 04:01:00"}
+{"level":"error","message":"Error parsing the generated soil story JSON: Could not find valid JSON in the generated text","service":"soil-song-api","timestamp":"2025-05-03 04:01:01"}
+{"level":"error","message":"Raw generated text: \n\n","service":"soil-song-api","timestamp":"2025-05-03 04:01:01"}
+{"level":"error","message":"Error generating soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 04:01:01"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 04:01:01"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 04:01:25"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 04:01:25"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 04:01:25"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 04:01:25"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 04:01:31"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 04:01:31"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 04:01:31"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 04:01:31"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 04:04:24"}
+{"level":"error","message":"Error generating soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 04:04:25"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Non-200 response: 401 Unauthorized","service":"soil-song-api","timestamp":"2025-05-03 04:04:25"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 04:04:51"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 04:04:51"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 04:04:51"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 04:04:51"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 04:10:45"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 04:10:45"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 04:10:45"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 04:10:45"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 04:11:35"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 04:11:35"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 04:11:35"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 04:11:35"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 04:12:52"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 04:12:52"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 04:12:52"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 04:12:52"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 04:12:57"}
+{"level":"info","message":"Getting new IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 04:12:57"}
+{"level":"info","message":"Successfully generated IBM Cloud IAM token (expires in 60 minutes)","service":"soil-song-api","timestamp":"2025-05-03 04:12:57"}
+{"level":"error","message":"Error parsing the generated soil story JSON: Could not find valid JSON in the generated text","service":"soil-song-api","timestamp":"2025-05-03 04:12:59"}
+{"level":"error","message":"Raw generated text: \n\n","service":"soil-song-api","timestamp":"2025-05-03 04:12:59"}
+{"level":"error","message":"Error generating soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 04:12:59"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 04:12:59"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 04:16:06"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 04:16:06"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 04:16:06"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 04:16:06"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 04:18:18"}
+{"level":"info","message":"Getting new IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 04:18:18"}
+{"level":"info","message":"Successfully generated IBM Cloud IAM token (expires in 60 minutes)","service":"soil-song-api","timestamp":"2025-05-03 04:18:18"}
+{"level":"error","message":"Error parsing the generated soil story JSON: Could not find valid JSON in the generated text","service":"soil-song-api","timestamp":"2025-05-03 04:18:19"}
+{"level":"error","message":"Raw generated text: \n\n","service":"soil-song-api","timestamp":"2025-05-03 04:18:19"}
+{"level":"error","message":"Error generating soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 04:18:19"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 04:18:19"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 04:18:26"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 04:18:26"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 04:18:26"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 04:18:26"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 04:18:38"}
+{"level":"info","message":"Getting new IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 04:18:38"}
+{"level":"info","message":"Successfully generated IBM Cloud IAM token (expires in 60 minutes)","service":"soil-song-api","timestamp":"2025-05-03 04:18:39"}
+{"level":"error","message":"Error parsing the generated soil story JSON: Could not find valid JSON in the generated text","service":"soil-song-api","timestamp":"2025-05-03 04:18:40"}
+{"level":"error","message":"Raw generated text: \n\n","service":"soil-song-api","timestamp":"2025-05-03 04:18:40"}
+{"level":"error","message":"Error generating soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 04:18:40"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Failed to parse the generated soil story","service":"soil-song-api","timestamp":"2025-05-03 04:18:40"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 04:23:53"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 04:23:53"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 04:23:53"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 04:23:53"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 04:24:32"}
+{"level":"info","message":"Getting new IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 04:24:32"}
+{"level":"info","message":"Successfully generated IBM Cloud IAM token (expires in 60 minutes)","service":"soil-song-api","timestamp":"2025-05-03 04:24:33"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 04:24:33"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 04:24:35"}
+{"level":"debug","message":"Response data structure: [\"model_id\",\"created_at\",\"results\",\"system\"]","service":"soil-song-api","timestamp":"2025-05-03 04:24:35"}
+{"level":"debug","message":"Generated text first 100 chars: EMPTY","service":"soil-song-api","timestamp":"2025-05-03 04:24:35"}
+{"level":"error","message":"Error generating soil story: Empty response from IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 04:24:35"}
+{"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Empty response from IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 04:24:35"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 04:27:50"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 04:27:50"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 04:27:50"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 04:27:50"}
+{"level":"info","message":"Generating soil story for pH: 6.5, moisture: 45","service":"soil-song-api","timestamp":"2025-05-03 04:28:41"}
+{"level":"info","message":"Getting new IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 04:28:41"}
+{"level":"info","message":"Successfully generated IBM Cloud IAM token (expires in 60 minutes)","service":"soil-song-api","timestamp":"2025-05-03 04:28:42"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 04:28:42"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 04:28:50"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of balance and potential. With a pH of 6.5, it sit","service":"soil-song-api","timestamp":"2025-05-03 04:28:50"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 04:28:50"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 04:28:50"}
+{"level":"info","message":"Split text into 3 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 04:28:50"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_117c147b-716d-4667-b5a1-b6fc2a4ee42e.mp3","service":"soil-song-api","timestamp":"2025-05-03 04:28:52"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 04:29:17"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 04:29:17"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 04:29:17"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 04:29:26"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of imbalance and potential. With a pH of 5, it sit","service":"soil-song-api","timestamp":"2025-05-03 04:29:26"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 04:29:26"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 04:29:26"}
+{"level":"info","message":"Split text into 2 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 04:29:26"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_c684101d-1225-4614-bf5c-4ed5c0250839.mp3","service":"soil-song-api","timestamp":"2025-05-03 04:29:27"}
+{"level":"info","message":"Generating soil story for pH: 2, moisture: 90","service":"soil-song-api","timestamp":"2025-05-03 04:31:56"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 04:31:56"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 04:31:56"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 04:32:02"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"This soil is extremely acidic and dry, with a pH of 2 and moisture level of 90%. It is","service":"soil-song-api","timestamp":"2025-05-03 04:32:02"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 04:32:02"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 04:32:02"}
+{"level":"info","message":"Split text into 2 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 04:32:02"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_1cecf033-e68f-4b9c-8739-c3be89eb1230.mp3","service":"soil-song-api","timestamp":"2025-05-03 04:32:03"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 12:40:23"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 12:40:23"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 12:40:23"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 12:40:23"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 12:41:58"}
+{"level":"info","message":"Getting new IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 12:41:58"}
+{"level":"info","message":"Successfully generated IBM Cloud IAM token (expires in 60 minutes)","service":"soil-song-api","timestamp":"2025-05-03 12:42:00"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 12:42:00"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 12:42:10"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of imbalance and potential. With a pH of 5, it sit","service":"soil-song-api","timestamp":"2025-05-03 12:42:10"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 12:42:10"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 12:42:10"}
+{"level":"info","message":"Split text into 2 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 12:42:10"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_4c840761-cf7a-4aa0-8671-862e6194e4bc.mp3","service":"soil-song-api","timestamp":"2025-05-03 12:42:12"}
+{"level":"info","message":"Generating soil story for pH: 4, moisture: 44","service":"soil-song-api","timestamp":"2025-05-03 12:56:03"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 12:56:03"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 12:56:03"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 12:56:12"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of imbalance and potential. With a pH of 4, it sit","service":"soil-song-api","timestamp":"2025-05-03 12:56:12"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 12:56:12"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 12:56:12"}
+{"level":"info","message":"Split text into 3 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 12:56:12"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_1566654c-4122-4db9-8f87-92847d62c64a.mp3","service":"soil-song-api","timestamp":"2025-05-03 12:56:14"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 60","service":"soil-song-api","timestamp":"2025-05-03 12:56:47"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 12:56:47"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 12:56:47"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 12:56:57"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of imbalance and potential. With a pH of 5, it sit","service":"soil-song-api","timestamp":"2025-05-03 12:56:57"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 12:56:57"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 12:56:57"}
+{"level":"info","message":"Split text into 2 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 12:56:57"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_afdbf6d9-6f80-4152-85fc-4a6d73cc34d1.mp3","service":"soil-song-api","timestamp":"2025-05-03 12:56:58"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 13:23:02"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 13:23:02"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 13:23:02"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 13:23:12"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of imbalance and potential. With a pH of 5, it sit","service":"soil-song-api","timestamp":"2025-05-03 13:23:12"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 13:23:12"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 13:23:12"}
+{"level":"info","message":"Split text into 2 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 13:23:12"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_9be689fa-e658-4ef7-9ebe-ad9c0da379c2.mp3","service":"soil-song-api","timestamp":"2025-05-03 13:23:14"}
+{"level":"info","message":"Generating soil story for pH: 4, moisture: 44","service":"soil-song-api","timestamp":"2025-05-03 13:29:55"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 13:29:55"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 13:29:55"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 13:30:03"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of imbalance and potential. With a pH of 4, it sit","service":"soil-song-api","timestamp":"2025-05-03 13:30:03"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 13:30:03"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 13:30:03"}
+{"level":"info","message":"Split text into 3 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 13:30:03"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_196f024a-058c-456e-bf98-1f24d2db4733.mp3","service":"soil-song-api","timestamp":"2025-05-03 13:30:05"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 58","service":"soil-song-api","timestamp":"2025-05-03 13:31:29"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 13:31:29"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 13:31:29"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 13:31:37"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of imbalance and potential. With a pH of 5, it sit","service":"soil-song-api","timestamp":"2025-05-03 13:31:37"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 13:31:37"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 13:31:37"}
+{"level":"info","message":"Split text into 2 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 13:31:37"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_2ccd322e-9699-403a-af47-5ea2b724617d.mp3","service":"soil-song-api","timestamp":"2025-05-03 13:31:38"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 13:32:51"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 13:32:51"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 13:32:51"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 13:32:51"}
+{"level":"info","message":"Generating soil story for pH: 6, moisture: 56","service":"soil-song-api","timestamp":"2025-05-03 13:33:38"}
+{"level":"info","message":"Getting new IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 13:33:38"}
+{"level":"info","message":"Successfully generated IBM Cloud IAM token (expires in 60 minutes)","service":"soil-song-api","timestamp":"2025-05-03 13:33:39"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 13:33:39"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 13:33:48"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of balance and potential. With a pH of 6, it sits ","service":"soil-song-api","timestamp":"2025-05-03 13:33:48"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 13:33:48"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 13:33:48"}
+{"level":"info","message":"Split text into 3 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 13:33:48"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_c0d61b6d-88dc-4e41-ba59-b0dc9284bb7d.mp3","service":"soil-song-api","timestamp":"2025-05-03 13:33:50"}
+{"level":"info","message":"Generating soil story for pH: 6, moisture: 66","service":"soil-song-api","timestamp":"2025-05-03 13:41:09"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 13:41:09"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 13:41:10"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 13:41:18"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of balance and potential. With a pH of 6, it sits ","service":"soil-song-api","timestamp":"2025-05-03 13:41:18"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 13:41:18"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 13:41:18"}
+{"level":"info","message":"Split text into 3 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 13:41:18"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_3e5b0d44-aa38-4ae9-8e5f-dadbf15cb4eb.mp3","service":"soil-song-api","timestamp":"2025-05-03 13:41:19"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 90","service":"soil-song-api","timestamp":"2025-05-03 13:47:17"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 13:47:17"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 13:47:17"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 13:47:25"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"This soil is a good example of a very dry soil. It has a pH of 5 and a moisture conten","service":"soil-song-api","timestamp":"2025-05-03 13:47:25"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 13:47:25"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 13:47:25"}
+{"level":"info","message":"Split text into 2 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 13:47:25"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_9429650a-bb9e-4a01-baac-5733cf532704.mp3","service":"soil-song-api","timestamp":"2025-05-03 13:47:27"}
+{"level":"info","message":"Generating soil story for pH: 5, moisture: 55","service":"soil-song-api","timestamp":"2025-05-03 13:54:12"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 13:54:12"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 13:54:12"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 13:54:22"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of imbalance and potential. With a pH of 5, it sit","service":"soil-song-api","timestamp":"2025-05-03 13:54:22"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 13:54:22"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 13:54:22"}
+{"level":"info","message":"Split text into 2 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 13:54:22"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_693a5bf2-2f0c-4d3d-9f1b-bdc7e85c2444.mp3","service":"soil-song-api","timestamp":"2025-05-03 13:54:23"}
+{"level":"info","message":"Generating soil story for pH: 9, moisture: 50","service":"soil-song-api","timestamp":"2025-05-03 13:56:40"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 13:56:40"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 13:56:40"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 13:56:49"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of balance and potential. With a pH of 9, it sits ","service":"soil-song-api","timestamp":"2025-05-03 13:56:49"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 13:56:49"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 13:56:49"}
+{"level":"info","message":"Split text into 3 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 13:56:49"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_237166b2-d2cc-4347-ac15-87879a6dea5f.mp3","service":"soil-song-api","timestamp":"2025-05-03 13:56:50"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 14:01:06"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 14:01:06"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 14:01:06"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 14:01:06"}
+{"level":"info","message":"Generating soil story for pH: 8, moisture: 80","service":"soil-song-api","timestamp":"2025-05-03 14:01:40"}
+{"level":"info","message":"Getting new IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 14:01:40"}
+{"level":"info","message":"Successfully generated IBM Cloud IAM token (expires in 60 minutes)","service":"soil-song-api","timestamp":"2025-05-03 14:01:41"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 14:01:41"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 14:01:50"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of balance and potential. With a pH of 8, it sits ","service":"soil-song-api","timestamp":"2025-05-03 14:01:50"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 14:01:50"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 14:01:50"}
+{"level":"info","message":"Split text into 3 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 14:01:50"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_61fad19a-1b0b-4c1f-9952-1b5e1e65bc0b.mp3","service":"soil-song-api","timestamp":"2025-05-03 14:01:52"}
+{"level":"info","message":"Generating soil story for pH: 4, moisture: 80","service":"soil-song-api","timestamp":"2025-05-03 14:10:43"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 14:10:43"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 14:10:43"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 14:10:49"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"This soil is a good example of a very dry soil. It has a pH of 4 and a moisture conten","service":"soil-song-api","timestamp":"2025-05-03 14:10:49"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 14:10:49"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 14:10:49"}
+{"level":"info","message":"Split text into 2 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 14:10:49"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_6f729759-890a-4a35-858f-aa2e12487653.mp3","service":"soil-song-api","timestamp":"2025-05-03 14:10:50"}
+{"level":"info","message":"Generating soil story for pH: 8, moisture: 89","service":"soil-song-api","timestamp":"2025-05-03 14:11:33"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 14:11:33"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 14:11:33"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 14:11:42"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of balance and potential. With a pH of 8, it sits ","service":"soil-song-api","timestamp":"2025-05-03 14:11:42"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 14:11:42"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 14:11:42"}
+{"level":"info","message":"Split text into 3 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 14:11:42"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_c9ebaabb-5671-4a0c-8447-c196710fef3c.mp3","service":"soil-song-api","timestamp":"2025-05-03 14:11:44"}
+{"level":"info","message":"Generating soil story for pH: 8, moisture: 89","service":"soil-song-api","timestamp":"2025-05-03 14:12:17"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 14:12:17"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 14:12:17"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 14:12:25"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of balance and potential. With a pH of 8, it sits ","service":"soil-song-api","timestamp":"2025-05-03 14:12:25"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 14:12:25"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 14:12:25"}
+{"level":"info","message":"Split text into 3 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 14:12:25"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_8ac2f118-87dc-43fc-b2bf-0773fe6d4168.mp3","service":"soil-song-api","timestamp":"2025-05-03 14:12:27"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 14:48:56"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 14:48:56"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 14:48:56"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 14:48:56"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 18:47:14"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 18:47:14"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 18:47:14"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 18:47:14"}
+{"level":"info","message":"Local IP addresses for mobile testing: 192.168.31.73","service":"soil-song-api","timestamp":"2025-05-03 18:49:06"}
+{"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-03 18:49:06"}
+{"level":"info","message":"Local: http://localhost:3000","service":"soil-song-api","timestamp":"2025-05-03 18:49:06"}
+{"level":"info","message":"On Your Network: http://192.168.31.73:3000","service":"soil-song-api","timestamp":"2025-05-03 18:49:06"}
+{"level":"info","message":"Generating soil story for pH: 6, moisture: 90","service":"soil-song-api","timestamp":"2025-05-03 19:08:28"}
+{"level":"info","message":"Getting new IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 19:08:28"}
+{"level":"info","message":"Successfully generated IBM Cloud IAM token (expires in 60 minutes)","service":"soil-song-api","timestamp":"2025-05-03 19:08:30"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 19:08:30"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 19:08:39"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of balance and potential. With a pH of 6, it sits ","service":"soil-song-api","timestamp":"2025-05-03 19:08:39"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 19:08:39"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 19:08:39"}
+{"level":"info","message":"Split text into 3 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 19:08:39"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_0af38748-f122-496b-8e8a-4a727cc3a855.mp3","service":"soil-song-api","timestamp":"2025-05-03 19:08:41"}
+{"level":"info","message":"Generating soil story for pH: 3.5, moisture: 40","service":"soil-song-api","timestamp":"2025-05-03 19:09:36"}
+{"level":"debug","message":"Using cached IBM Cloud IAM token","service":"soil-song-api","timestamp":"2025-05-03 19:09:36"}
+{"level":"info","message":"Sending request to IBM Granite API","service":"soil-song-api","timestamp":"2025-05-03 19:09:36"}
+{"level":"debug","message":"IBM API response status: 200","service":"soil-song-api","timestamp":"2025-05-03 19:09:44"}
+{"level":"debug","message":"Generated text first 100 chars: {\n  \"story\": \"Your soil tells a fascinating story of imbalance and potential. With a pH of 3.5, it s","service":"soil-song-api","timestamp":"2025-05-03 19:09:44"}
+{"level":"info","message":"Successfully parsed response as direct JSON","service":"soil-song-api","timestamp":"2025-05-03 19:09:44"}
+{"level":"info","message":"Generating audio from text","service":"soil-song-api","timestamp":"2025-05-03 19:09:44"}
+{"level":"info","message":"Split text into 3 chunks for TTS processing","service":"soil-song-api","timestamp":"2025-05-03 19:09:44"}
+{"level":"info","message":"Generated audio file: /audio/soil_story_fce562d1-b3fb-4571-b18f-d16d8ee78e03.mp3","service":"soil-song-api","timestamp":"2025-05-03 19:09:47"}

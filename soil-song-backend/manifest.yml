@@ -1,0 +1,11 @@
+applications:
+- name: soil-song-backend
+  memory: 256M
+  instances: 1
+  random-route: true
+  command: npm start
+  path: .
+  buildpacks:
+  - nodejs_buildpack
+  env:
+    NODE_ENV: production
