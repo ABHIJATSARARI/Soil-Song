@@ -20,6 +20,7 @@ def reactNativeAndroidDir = new File(
   "../android"
 )
 
+
 allprojects {
   repositories {
     maven {

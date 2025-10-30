@@ -13,6 +13,7 @@ const USE_MOCK_SERVICE = false; // Set to false to use real IBM Granite service
  * @param {Object} req - Express request object
  * @param {Object} res - Express response object
  */
+
 const generateStory = async (req, res) => {
   try {
     // Extract soil data from request body

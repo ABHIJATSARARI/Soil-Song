@@ -16,6 +16,7 @@ import * as SplashScreen from 'expo-splash-screen';
 // Prevent native splash screen from auto hiding
 SplashScreen.preventAutoHideAsync();
 
+
 const Stack = createStackNavigator();
 const { width, height } = Dimensions.get('window');
 

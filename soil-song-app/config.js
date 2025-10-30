@@ -27,6 +27,7 @@ const DEV_SERVER_ADDRESSES = [
 export const API_URLS = isDevelopment 
   ? DEV_SERVER_ADDRESSES 
   : [PRODUCTION_SERVER_URL];
+  
 
 // Default URL - Use production URL in production builds
 export const API_BASE_URL = isDevelopment 

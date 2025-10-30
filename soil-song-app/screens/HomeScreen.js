@@ -26,6 +26,7 @@ import NetInfo from '@react-native-community/netinfo';
 import { MaterialIcons, Feather, FontAwesome5, MaterialCommunityIcons } from '@expo/vector-icons';
 import * as Animatable from 'react-native-animatable';
 
+
 const { width, height } = Dimensions.get('window');
 
 export default function HomeScreen({ navigation }) {

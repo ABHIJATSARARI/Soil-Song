@@ -17,6 +17,7 @@ const { logger } = require('./utils/logger');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+
 // Create necessary directories if they don't exist
 const audioDir = path.join(__dirname, '../', process.env.AUDIO_STORAGE_PATH);
 const uploadsDir = path.join(__dirname, '../', process.env.UPLOAD_PATH);

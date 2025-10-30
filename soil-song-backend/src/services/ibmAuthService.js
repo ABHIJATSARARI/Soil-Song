@@ -11,6 +11,7 @@ let tokenExpiration = 0;
 // Buffer time before token expiration (5 minutes in ms)
 const EXPIRATION_BUFFER = 5 * 60 * 1000;
 
+
 /**
  * Get a valid IAM access token, either from cache or by generating a new one
  * @returns {Promise<string>} - The access token

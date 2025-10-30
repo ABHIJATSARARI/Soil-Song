@@ -12,6 +12,7 @@ const generateMockSoilStory = async (soilData) => {
   try {
     const { pH, moisture, imageAnalysis } = soilData;
     
+    
     logger.info(`Generating mock soil story for pH: ${pH}, moisture: ${moisture}`);
     
     // Parse values as numbers for comparison

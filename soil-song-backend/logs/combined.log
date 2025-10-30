@@ -13,6 +13,7 @@
 {"level":"error","message":"Error in generateStory controller: Failed to generate soil story: Request failed with status code 401","service":"soil-song-api","timestamp":"2025-05-02 23:30:07"}
 {"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:32:05"}
 {"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:32:57"}
+
 {"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:33:37"}
 {"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:33:41"}
 {"level":"info","message":"Server running in development mode on port 3000","service":"soil-song-api","timestamp":"2025-05-02 23:35:51"}

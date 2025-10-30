@@ -28,6 +28,7 @@ import * as Animatable from 'react-native-animatable';
 const { width, height } = Dimensions.get('window');
 const AnimatedTouchable = Animated.createAnimatedComponent(TouchableOpacity);
 
+
 export default function ResultScreen({ route, navigation }) {
   const { story, audioUri, analysis, serverUrl } = route.params;
   const baseUrl = serverUrl || API_BASE_URL;

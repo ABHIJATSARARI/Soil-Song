@@ -10,6 +10,7 @@ const { getAccessToken, forceRefreshToken } = require('./ibmAuthService');
  * @param {String} [soilData.imageAnalysis] - Optional image analysis text
  * @returns {Promise<Object>} - Generated story and analysis
  */
+
 const generateSoilStory = async (soilData) => {
   try {
     const { pH, moisture, imageAnalysis } = soilData;

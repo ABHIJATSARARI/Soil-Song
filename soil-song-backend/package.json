@@ -15,6 +15,7 @@
   ],
   "author": "",
   "license": "ISC",
+  
   "description": "Backend for SoilSong application that analyzes soil data and generates stories using AI",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",

@@ -15,6 +15,7 @@ ffmpeg.setFfmpegPath(ffmpegInstaller.path);
  * @param {string} text - Text to convert to speech
  * @returns {Promise<string>} - Path to the generated audio file
  */
+
 const generateAudio = async (text) => {
   try {
     logger.info('Generating audio from text');

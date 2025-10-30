@@ -12,6 +12,7 @@ const logger = winston.createLogger({
     winston.format.splat(),
     winston.format.json()
   ),
+  
   defaultMeta: { service: 'soil-song-api' },
   transports: [
     // Write all logs to console

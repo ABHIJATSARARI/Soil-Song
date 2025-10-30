@@ -15,6 +15,7 @@ echo "    IBM Cloud Authentication Test"
 echo "========================================"
 echo
 
+
 echo "Step 1: Generating IBM Cloud IAM token"
 echo "--------------------------------------"
 
